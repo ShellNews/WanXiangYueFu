@@ -20,7 +20,7 @@
 
 如果你也没抢到，请star一下本项目，让我们一起探寻下该项目是否过热（if (count >= 159*3)）
 
-*  认筹同学沟通 [Telegram]（https://t.me/joinchat/LI3yKa_yzKQ1YmQ1）
+*  认筹同学沟通 [Telegram](https://t.me/joinchat/LI3yKa_yzKQ1YmQ1)
 
 
 
