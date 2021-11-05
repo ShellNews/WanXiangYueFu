@@ -18,7 +18,7 @@
 
 ## 探寻真相
 
-如果你也没抢到，请star一下本项目，让我们一起探寻下该项目是否过热（if (count >= 159*3)）
+如果你也没抢到，请star一下本项目，让我们一起探寻下该项目是否热销（if (count >= 159*3)），期待一下线上选房的结果公示！
 
  [Telegram](https://t.me/joinchat/LI3yKa_yzKQ1YmQ1)
 
